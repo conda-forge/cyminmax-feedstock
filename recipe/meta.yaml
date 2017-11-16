@@ -1,6 +1,6 @@
 {% set name = "cyminmax" %}
-{% set version = "0.1.0" %}
-{% set checksum = "c89fad4c3bc4fda87e4c4c3539def840ef6cd378735fd8ada95e2edf58e2278f" %}
+{% set version = "0.1.1" %}
+{% set checksum = "cb448c88499a394a15fd24d9344115bd806dfc8d28a1981d5e1626094dbbc40b" %}
 
 package:
   name: {{ name }}
