@@ -17,15 +17,16 @@ build:
 
 requirements:
   build:
-    - toolchain
+    - {{ compiler('c') }}
+  host:
     - python
     - setuptools >=18.0
     - cython >=0.25.2
-    - numpy >=1.11.3,<1.12
+    - numpy
 
   run:
     - python
-    - numpy >=1.11
+    - {{ pin_compatible('numpy') }}
 
 test:
   source_files:
