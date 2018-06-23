@@ -14,14 +14,16 @@ Summary: A minmax implementation in Cython for use with NumPy
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/cyminmax-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/cyminmax-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/cyminmax-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/cyminmax-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/cyminmax-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/cyminmax-feedstock/branch/master)
+[![Linux](https://img.shields.io/circleci/project/github/conda-forge/cyminmax-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/cyminmax-feedstock)
+[![OSX](https://img.shields.io/travis/conda-forge/cyminmax-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/cyminmax-feedstock)
+[![Windows](https://img.shields.io/appveyor/ci/conda-forge/cyminmax-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/cyminmax-feedstock/branch/master)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/cyminmax/badges/version.svg)](https://anaconda.org/conda-forge/cyminmax)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/cyminmax/badges/downloads.svg)](https://anaconda.org/conda-forge/cyminmax)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-cyminmax-green.svg)](https://anaconda.org/conda-forge/cyminmax) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/cyminmax.svg)](https://anaconda.org/conda-forge/cyminmax) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/cyminmax.svg)](https://anaconda.org/conda-forge/cyminmax) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/cyminmax.svg)](https://anaconda.org/conda-forge/cyminmax) |
 
 Installing cyminmax
 ===================
